@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xahquaiwie.jasonreid.com/sitemap.xml
